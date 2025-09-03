@@ -2,6 +2,16 @@
 
 A new Flutter project.
 
+## Screenshots
+
+![Screenshot 1](assets/images/Screenshot%202025-09-03%20at%204.28.09%E2%80%AFPM.png)
+
+![Screenshot 2](assets/images/Screenshot%202025-09-03%20at%204.28.36%E2%80%AFPM.png)
+
+![Screenshot 3](assets/images/Screenshot%202025-09-03%20at%204.29.00%E2%80%AFPM.png)
+
+![Screenshot 4](assets/images/Screenshot%202025-09-03%20at%204.29.15%E2%80%AFPM.png)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
